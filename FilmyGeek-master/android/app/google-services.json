@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47964555997",
+    "project_id": "filmy-geek",
+    "storage_bucket": "filmy-geek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47964555997:android:225eb9e6cb0168af39a934",
+        "android_client_info": {
+          "package_name": "com.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47964555997-k0b5ste5527q0pkftikgoc1dhoenk89l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltQ67n2A7PO2iFN-WmG9p8NVEvWzpSrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47964555997-k0b5ste5527q0pkftikgoc1dhoenk89l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
